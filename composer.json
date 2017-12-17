@@ -1,6 +1,6 @@
 {
     "name": "zingus/monotable",
-    "description": "Monotable is a talbe format bla bla",
+    "description": "Monotable is a table format bla bla",
     "type": "library",
     "license": "GPL",
     "authors": [
@@ -9,5 +9,5 @@
             "email": "zingus@gmail.com"
         }
     ],
-    "require": {}
+    "require":{}
 }
