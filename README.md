@@ -1,6 +1,6 @@
 # Monotable
 
-Monotable is a text-based file format to describe tables of data.
+Monotable is a text-based file format to describe tables of data
 
 ## File Format
 

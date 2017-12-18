@@ -1,6 +1,6 @@
 {
     "name": "zingus/monotable",
-    "description": "Monotable is a table format bla bla",
+    "description": "Monotable is a text-based file format to describe tables of data.",
     "type": "library",
     "license": "GPL",
     "authors": [
